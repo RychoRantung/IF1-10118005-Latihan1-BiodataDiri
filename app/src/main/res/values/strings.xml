@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tugas1-10118005-RychoRantung</string>
+    <string name="nama">Nama</string>
+    <string name="nama_value">Rycho Rantung</string>
+    <string name="nim">NIM</string>
+    <string name="nim_value">10118005</string>
+    <string name="kelas">Kelas</string>
+    <string name="kelas_value">IF1</string>
+    <string name="jeniskelamin">Jenis Kelamin</string>
+    <string name="jeniskelamin_value">Laki-Laki</string>
+    <string name="ttl">Tempat Tanggal Lahir</string>
+    <string name="ttl_value">Palu, 30 Maret 2000</string>
+    <string name="alamat">Alamat Rumah</string>
+    <string name="alamat_value">Jln. Sekeloa No 46 </string>
+    <string name="goldarah">Golongan Darah</string>
+    <string name="goldarah_value">-</string>
+    <string name="makanan">Makanan Kesukaan</string>
+    <string name="makanan_value">Mie Ayam</string>
+    <string name="minum">Minuman Kesukaan</string>
+    <string name="minum_value">Air Putih</string>
+    <string name="hobi">Hobi</string>
+    <string name="hobi_value">Menonton Film</string>
+    <string name="lagu">Lagu Favorit</string>
+    <string name="lagu_value">Bee Gees - How Deep is Your Love</string>
+    <string name="film">Film Favorit</string>
+    <string name="film_value">La La Land</string>
+    <string name="job">Pekerjaan Yang Diinginkan Setelah Kuliah</string>
+    <string name="job_value">UI Designer</string>
+    <string name="detail">Profile Details</string>
+
+
+</resources>
